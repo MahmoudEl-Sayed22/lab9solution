@@ -1,0 +1,37 @@
+#clock {
+    font-size: 100px;
+    width: 600px;
+    margin: 0 200px;
+    text-align: center;
+    border: 2px solid rgb(238, 18, 18);
+    border-radius: 20px;
+  }
+  .alarm{
+    border:2px solid rgb(19, 181, 62);
+    text-align: center;
+    margin:100px 300px;
+    width:300px;
+    border-radius: 20px;
+    padding:10px;
+  }
+  #Hour,
+  #Minute,
+  #Second
+  {
+    margin : 5px;
+    background-color: rgb(138, 128, 128);
+    /* margin-left: 100px; */
+  }
+  .container{
+    margin:100px;
+    /* display: flex;
+    flex-wrap: wrap; */
+  }
+  label{
+    text-align: center;
+    color:rgb(28, 23, 181);
+  }
+  .mainlabel{
+    color:black;
+    background-color: rgb(224, 200, 23);
+  }
